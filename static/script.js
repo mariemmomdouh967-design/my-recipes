@@ -6,7 +6,7 @@ const modalSteps = document.getElementById("modal-steps");
 const closeBtn = document.querySelector(".close-btn");
 
 // Fetch recipes from backend
-fetch("http://127.0.0.1:5000/recipes")
+   fetch("/recipes")
   .then(res => res.json())
   .then(data => {
       const container = document.getElementById("recipes-container");
@@ -67,4 +67,5 @@ window.onclick = function (event) {
     if (event.target === modal) {
         modal.style.display = "none";
     }
+
 };
