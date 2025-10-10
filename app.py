@@ -1,6 +1,6 @@
 from flask import Flask, jsonify, render_template # type: ignore
 
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='/static', static_folder='static')
 
 # Recipes data (15 items)
 recipes = [
@@ -182,4 +182,5 @@ def get_recipes():
     return jsonify(recipes)
 
 if __name__ == "__main__":
+
     app.run(debug=True)
