@@ -9,11 +9,11 @@ It allows users to browse a digital recipe catalog, view detailed ingredients an
 
 ### ✨ Features
 
-✅ Full recipe catalog with images
-✅ Interactive frontend using JavaScript modals
-✅ Responsive and modern layout
-✅ Flask backend serving dynamic data
-✅ Organized file structure for easy maintenance
+- ✅ Full recipe catalog with images  
+- ✅ Interactive frontend using JavaScript modals  
+- ✅ Responsive and modern layout  
+- ✅ Flask backend serving dynamic data  
+- ✅ Organized file structure for easy maintenance
 
 ---
 
