@@ -65,6 +65,6 @@ my-recipes/
 
 ### 👩‍💻 Author
 
-Developed by **Mariam Mamdouh**❤️
+Developed by **Mariam Mamdouh**
 📧 **[mariemmomdouh967@gmail.com](mailto:mariemmomdouh967@gmail.com)**
 
