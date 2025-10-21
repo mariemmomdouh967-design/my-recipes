@@ -1,13 +1,13 @@
 ## 🍲 MyRecipes
 
-###  Overview
+###   Overview
 
 **MyRecipes** is a full-stack web application built with **Flask (Python)** for the backend and **HTML, CSS, and JavaScript** for the frontend.
 It allows users to browse a digital recipe catalog, view detailed ingredients and steps, and explore each recipe through a clean and interactive interface.
 
 ---
 
-###  Features
+###   Features
 
 - ✅ Full recipe catalog with images  
 - ✅ Interactive frontend using JavaScript modals  
@@ -17,7 +17,7 @@ It allows users to browse a digital recipe catalog, view detailed ingredients an
 
 ---
 
-###  Tech Stack
+###   Tech Stack
 
 * **Python (Flask)**
 * **HTML5 / CSS3 / JavaScript**
@@ -26,7 +26,7 @@ It allows users to browse a digital recipe catalog, view detailed ingredients an
 
 ---
 
-###  How to Run Locally
+###   How to Run Locally
 
 ```bash
 git clone https://github.com/mariemmomdouh967-design/my-recipes.git
@@ -40,13 +40,13 @@ Then open:
 
 ---
 
-###  Live Demo
+###   Live Demo
 
 🔗 [MyRecipes on Hugging Face](https://huggingface.co/spaces/mariam67/my-recipes)
 
 ---
 
-###  Project Structure
+###   Project Structure
 
 ```
 my-recipes/
@@ -63,7 +63,7 @@ my-recipes/
 
 ---
 
-###  Author
+###   Author
 
 Developed by **Mariam Mamdouh**
 📧 **[mariemmomdouh967@gmail.com](mailto:mariemmomdouh967@gmail.com)**
