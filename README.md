@@ -1,23 +1,23 @@
 ## 🍲 MyRecipes
 
-### 🧠 Overview
+### Overview
 
 **MyRecipes** is a full-stack web application built with **Flask (Python)** for the backend and **HTML, CSS, and JavaScript** for the frontend.
 It allows users to browse a digital recipe catalog, view detailed ingredients and steps, and explore each recipe through a clean and interactive interface.
 
 ---
 
-### ✨ Features
+### Features
 
-- ✅ Full recipe catalog with images  
-- ✅ Interactive frontend using JavaScript modals  
-- ✅ Responsive and modern layout  
-- ✅ Flask backend serving dynamic data  
-- ✅ Organized file structure for easy maintenance
+- Full recipe catalog with images. 
+- Interactive frontend using JavaScript modals.
+- Responsive and modern layout.
+- Flask backend serving dynamic data. 
+- Organized file structure for easy maintenance.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 * **Python (Flask)**
 * **HTML5 / CSS3 / JavaScript**
@@ -26,7 +26,7 @@ It allows users to browse a digital recipe catalog, view detailed ingredients an
 
 ---
 
-### ⚙️ How to Run Locally
+### How to Run Locally
 
 ```bash
 git clone https://github.com/mariemmomdouh967-design/my-recipes.git
@@ -36,17 +36,17 @@ python app.py
 ```
 
 Then open:
-👉 [http://127.0.0.1:5000](http://127.0.0.1:5000)
+[http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ---
 
-### 🚀 Live Demo
+### Live Demo
 
-🔗 [MyRecipes on Hugging Face](https://huggingface.co/spaces/mariam67/my-recipes)
+[MyRecipes on Hugging Face](https://huggingface.co/spaces/mariam67/my-recipes)
 
 ---
 
-### 📁 Project Structure
+### Project Structure
 
 ```
 my-recipes/
@@ -63,7 +63,7 @@ my-recipes/
 
 ---
 
-### 👩‍💻 Author
+### Author
 
 Developed by **Mariam Mamdouh**
-📧 **[mariemmomdouh967@gmail.com](mailto:mariemmomdouh967@gmail.com)**
+**[mariemmomdouh967@gmail.com](mailto:mariemmomdouh967@gmail.com)**
